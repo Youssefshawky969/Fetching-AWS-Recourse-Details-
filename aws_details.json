@@ -1,7 +1,7 @@
 {
     "VPCs": [
         {
-            "OwnerId": "774305579778",
+            "OwnerId": "*****",
             "InstanceTenancy": "default",
             "CidrBlockAssociationSet": [
                 {
